@@ -23,9 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 dist/
-
-
-
-echo "node_modules/" > .gitignore
-echo "dist/" >> .gitignore
-echo ".env" >> .gitignore  # if you have environment files
